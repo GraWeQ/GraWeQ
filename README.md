@@ -1,16 +1,24 @@
-## Hi there 👋
+# GraWeQ
+*Grandia Veniunt Quaerentibus* 
 
-<!--
-**GraWeQ/GraWeQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer specializing in bespoke, experiential web architecture. I bridge the gap between fluid, physics-based frontend choreography and pragmatic, secure backend systems. I build complete, production-ready assets from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Arsenal
+
+**Frontend Choreography**
+* React / Vite / Framer Motion
+* Tailwind CSS / Micro-interactions
+* State Management & Complex UI Timelines
+
+**Backend & Infrastructure**
+* Node.js / Express
+* Hibernate ORM / Java
+* SQLite / PostgreSQL / JWT Auth
+* Custom CMS Engines
+
+---
+
+
+📫 Contact: GraWeQofficial@hotmail.com
